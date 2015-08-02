@@ -1,0 +1,12 @@
+References
+
+Bad Data Handbook
+
+I used some information from the following course:
+https://courses.edx.org/courses/course-v1:MITx+15.071x_2a+2T2015/info
+
+http://api.mongodb.org/python/current/tutorial.html
+
+http://docs.mongodb.org/manual/reference/operator/aggregation/
+
+And, the Udacity class Data Wrangling of OpenStreetMap Data with MongoDB.
